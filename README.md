@@ -16,3 +16,5 @@ Sentences in reviews contain independent clauses that express different sentimen
 ![image](https://user-images.githubusercontent.com/36665975/49569480-0b7e4e80-f95a-11e8-829e-f4e712d8107e.png)
 
 
+## Accuracy Score
+    97.47109826589595
